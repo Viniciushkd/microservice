@@ -1,0 +1,5 @@
+br\com\fiap\controller\Controller.class
+br\com\fiap\Application.class
+br\com\fiap\model\Statistics.class
+br\com\fiap\model\Transaction.class
+br\com\fiap\SwaggerConfig.class
